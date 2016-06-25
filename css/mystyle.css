@@ -1,0 +1,18 @@
+body{
+	text-align: center;
+}
+#urlHolder{
+	padding-top: 5px;
+}
+#resultHolder{
+	text-align: center !important;
+}
+#vidURL{
+	width: 500px;
+}
+.row{
+	margin-top:25px;
+}
+thead,th{
+	text-align: center !important;
+}
