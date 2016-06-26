@@ -7,8 +7,11 @@ This is a JavaScript, HTML5 and CSS3 enabled website which stimulates network li
 * [vis.js]
 * [chart.js]
 
+# CSS3
+
+* [Bootstrap]
 
 [vis.js]: <http://visjs.org/>
 [chart.js]: <http://www.chartjs.org/>
-
+[Bootstrap]: <http://getbootstrap.com/>
 
