@@ -162,8 +162,9 @@ $(document).ready(function(){
       interaction: {
         hideEdgesOnDrag: true,
         tooltipDelay: 200
-      }
-		};
+      },
+      physics:false
+	};
 		var network = new vis.Network(container, data, options);
 	}
 	function plotCostChart(){
