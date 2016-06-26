@@ -4,8 +4,8 @@ This is a JavaScript, HTML5 and CSS3 enabled website which stimulates network li
 
 # JS Libraries:
 
-* [ vis.js ]
-* [ chart.js ]
+* [vis.js]
+* [chart.js]
 
 
 [vis.js]: <http://visjs.org/>
